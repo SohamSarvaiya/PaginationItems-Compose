@@ -18,3 +18,6 @@ Coroutines: Handles asynchronous data loading for optimal performance.
 Dynamic Pagination: Initially loads 20 items, and fetches the next 20 as the user scrolls.
 
 This example is a great starting point for anyone looking to implement scroll-based data loading in a Compose-based application.
+
+⭐️ Support This Project
+If you find this project useful or insightful, please give it a ⭐️ on GitHub and follow me for more exciting projects!
