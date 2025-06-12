@@ -1,4 +1,4 @@
-package com.scode.paginationitems_compose
+package com.scode.paginationitems_compose.domain
 
 interface Paginator<Item>{
     suspend fun loadNextItems()

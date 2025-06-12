@@ -1,5 +1,6 @@
-package com.scode.paginationitems_compose
+package com.scode.paginationitems_compose.domain
 
+import com.scode.paginationitems_compose.presentation.ListItem
 import kotlinx.coroutines.delay
 
 class Repository {

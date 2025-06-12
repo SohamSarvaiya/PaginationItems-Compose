@@ -1,4 +1,4 @@
-package com.scode.paginationitems_compose
+package com.scode.paginationitems_compose.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -19,6 +19,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.scode.paginationitems_compose.domain.MainViewModel
 import com.scode.paginationitems_compose.ui.theme.PaginationItemsComposeTheme
 
 class MainActivity : ComponentActivity() {

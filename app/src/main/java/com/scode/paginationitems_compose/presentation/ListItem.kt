@@ -1,4 +1,4 @@
-package com.scode.paginationitems_compose
+package com.scode.paginationitems_compose.presentation
 
 data class ListItem(
     val title: String,

@@ -1,4 +1,4 @@
-package com.scode.paginationitems_compose
+package com.scode.paginationitems_compose.domain
 
 class DefaultPaginator<key, Item>(
     private val initialkey: key,

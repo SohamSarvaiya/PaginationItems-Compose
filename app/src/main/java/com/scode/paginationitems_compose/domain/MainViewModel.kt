@@ -1,11 +1,11 @@
-package com.scode.paginationitems_compose
+package com.scode.paginationitems_compose.domain
 
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.key
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.scode.paginationitems_compose.presentation.ListItem
 import kotlinx.coroutines.launch
 
 class MainViewModel() : ViewModel(){
